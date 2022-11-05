@@ -2,7 +2,7 @@
 
 ![miniatura da página](https://user-images.githubusercontent.com/109318160/200099421-f5b47fa6-4781-4466-b412-42f5ad8f0731.png)
 
-### ✨ 🎖️ Projeto construído do sprint da Alura e ONE para compor meu portfólio 🌺 😊
+### ✨ 🎖️ Projeto construído no curso de JS Web da Alura/ONE 🌺 😊
 
 <br>
 
